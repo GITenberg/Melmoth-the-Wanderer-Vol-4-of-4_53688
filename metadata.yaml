@@ -1,0 +1,32 @@
+_repo: Melmoth-the-Wanderer-Vol-4-of-4_53688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maturin, Charles Robert
+    aliases:
+    - Murphy, Denis Jasper
+    - Murphy, Dennis Jasper
+    - Maturin, R. C.
+    birthdate: 1780
+    deathdate: 1824
+    gutenberg_agent_id: '5828'
+    url: http://www.gutenberg.org/2009/agents/5828
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Maturin
+description: ''
+gutenberg_issued: '2016-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction'
+- !lcsh 'Immortalism -- Fiction'
+- !lcsh 'Paranormal fiction'
+- GITenberg
+title: Melmoth the Wanderer, Vol. 4 (of 4)
+url: http://www.gutenberg.org/ebooks/53688
